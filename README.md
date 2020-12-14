@@ -28,10 +28,10 @@ While such a decision would ultimately be that of the client, we can provide res
 
 *  Possible Recommendations
  
-     * **ENPH** ,*Steady Profits in 2017, 2018*
-     * **RUN**, *Steady Profits in 2017, 2018*
+     * **ENPH**, *Steady Profits in 2017, 2018*
+     * **RUN**,  *Steady Profits in 2017, 2018*
      
-     * **VSLR**,*Least Amount of Profit Loss, in 2018*
+     * **VSLR**, *Least Amount of Profit Loss, in 2018*
 
 
 ## Summary
