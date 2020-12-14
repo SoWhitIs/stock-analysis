@@ -1,3 +1,4 @@
+
 # Going Green! (Renewable Energy Stock Analysis)
 
 ## Overview of Project
@@ -42,7 +43,7 @@ Coding, without a doubt, can elevate the most mundane of task to that of efficie
 
 This process of editing and debugging code to find what does and does not work in called _refactoring_.  This brings forth challenges in and of itself, namely because the goal is to have clean, “easy” readable (and editable) code that is both accessible to you and the client—how that is not always the case—and finding what went wrong can take just as long as actually writing the code initially. 
 
-On the other hand, refactoring code does not mean *having* to start over often, (though it is good practice to start combing through from the top), for what is presented is a _template of sorts_ customizable to needs. 
+On the other hand, refactoring code does not mean *having* to start over (though it is good practice to start combing through from the top) for what is presented is a _template of sorts_ customizable to needs. 
 
 ### VBA Scripting
 
@@ -50,12 +51,12 @@ Debugging! Debugging! Debugging! As mentioned in previous section are challenges
 
 VBA is a powerful programming tool that is native to Microsoft Office and can be used across their products from extracting data to generate an e-mail through Marcos.  Marcos are amazing containers of information, and when understanding how VBA functions and performs can present endless opportunities, especially when analyzing data.
 
-Refactoring code in VBA Script in Excel allows you to run your code and debug (which can often take as long as the writing the code) within and module interface and in turn see those result on an assigned or activate spreadsheet—this provides a real-time snapshot of your code. Thankful for this code can be saved as a module to access at any time.  A true benefit of this ecosystem is that you can compare code and/or scripts simultaneously assign buttons, or like active controls. 
+Refactoring code in VBA Script in Excel allows you to run your code and debug (which can often take as long as the writing the code) within and module interface and in turn see those results on an assigned or activate spreadsheet—this provides a real-time snapshot of your code. Thankful for this code can be saved as a module to access at any time.  A true benefit of this ecosystem is that you can compare code and/or scripts simultaneously assign buttons, or like active controls. 
 
 ![multiple_modules](additionalresources/multiple_modules.png)
 
-While it can be accessed at any time, often refactoring VBA Script cause issues that is not necessarily clear or the root cause is not apparent. A Marco that ran perfectly in one application, or a few moments now prompts Runtime errors like the one seen below. 
+While it can be accessed at any time, often refactoring VBA Script cause issues that is not necessarily clear or the root cause is not apparent. A Marco running perfectly in one application or scenario, or a few moments now prompts Runtime errors like the one seen below. 
 
 ![runtime_error](additionalresources/runtime_error.png)
 
-In this particular analysis, VBA script refactoring was done to address several needs of the client. Fortunately, much of the same code from the original script was applicable but editing made the script in this particular use case added flexibility and streamlined data comparisons.
+In this particular analysis, VBA script refactoring was done to address several needs of the client. Fortunately, much of the same code from the original script was applicable but editing gave the script in this particular use case added flexibility and streamlined data comparisons.
