@@ -4,7 +4,7 @@
 
 Helping client, Steve, _"Go, green!"_, by creating an efficient workspace that would ultimately compare renewable energy stock standings from 2017 to 2018, respectively. This workflow was created by automating frequent tasks as data pulling, filtering, clean-up, and permutation through Marco-coded --_scripts_--VBA (Visual Basic for Applications) programing, to which could be used similarly in later applications with larger datasets. 
 
-Having this access to this data at the push of a but…_Marco button_ helps Steve see at glance what stocks would make for better investment opportunities to diversify his parent portfolio.
+Having this access to this data at the push of a but…_Marco_ button helps Steve see at glance what stocks would make for better investment opportunities to diversify his parent portfolio.
 
 ## Results
 
