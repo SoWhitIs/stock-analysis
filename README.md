@@ -37,7 +37,7 @@ While such a decision would ultimately be that of the client, we can provide res
 
 ## Summary
 
-### To Refract _or_ Not Refract
+### To Refact _or_ Not To Refact
 
 Coding, without a doubt, can elevate the most mundane of task to that of efficiency and ingenuity. It is a process of “getting there”…*just* like a story there is two sides, writing the code …and debugging the code! (Well, there’s three…the type of language or program used to write said code, will explain more in next section.)
 
