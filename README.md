@@ -60,3 +60,6 @@ While it can be accessed at any time, often refactoring VBA Script cause issues 
 ![runtime_error](additionalresources/runtime_error.png)
 
 In this particular analysis, VBA script refactoring was done to address several needs of the client. Fortunately, much of the same code from the original script was applicable but editing gave the script in this particular use case added flexibility and streamlined data comparisons.
+
+#### Author
+Whitney Gardner
