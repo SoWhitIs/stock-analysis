@@ -1,5 +1,5 @@
 
-# _Going Green!_ | Renewable Energy Stock Analysis
+# _Going Green!_  ||  Renewable Energy Stock Analysis
 
 ## Overview of Project
 
