@@ -55,7 +55,7 @@ Refactoring code in VBA Script in Excel allows you to run your code and debug (w
 
 ![multiple_modules](additionalresources/multiple_modules.png)
 
-While it can be accessed at any time, often refactoring VBA Script cause issues that is not necessarily clear or the root cause is not apparent. A Marco running perfectly in one application or scenario, or a few moments now prompts Runtime errors like the one seen below. 
+While it can be accessed at any time, often refactoring VBA Script can cause issues that is not necessarily clear or the root cause is not apparent. A Marco running perfectly in one application or scenario, or a few moments now prompts Runtime errors like the one seen below. 
 
 ![runtime_error](additionalresources/runtime_error.png)
 
