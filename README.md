@@ -7,6 +7,10 @@ Helping client, Steve, _"Go, green!"_, by creating an efficient workspace that w
 
 Having this access to this data at the push of a but…_Marco_ button helps Steve see at glance what stocks would make for better investment opportunities to diversify his parent portfolio.
 
+## Resources
+
+•	Software: Microsoft Excel | VBA
+
 ## Results
 
 ### Analysis 
